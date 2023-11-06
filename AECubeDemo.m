@@ -11,7 +11,7 @@ function predictedProbab = AECubeDemo
 % Petr Kolář and Matěj Petružálek:
 % Discrimination of doubled Acoustic Emission events using Neural Networks
 %
-% submited to Computers & Geoscience
+% submited to Ultrasonic
 %
 % input: data file indetification is presribed below
 % output: predicted probabilities from testing data
